@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-dentist-website/static/css/main.8e05d05e.chunk.css",
+    "main.js": "/my-dentist-website/static/js/main.871774a5.chunk.js",
+    "main.js.map": "/my-dentist-website/static/js/main.871774a5.chunk.js.map",
+    "runtime-main.js": "/my-dentist-website/static/js/runtime-main.e3951021.js",
+    "runtime-main.js.map": "/my-dentist-website/static/js/runtime-main.e3951021.js.map",
+    "static/js/2.00e2316a.chunk.js": "/my-dentist-website/static/js/2.00e2316a.chunk.js",
+    "static/js/2.00e2316a.chunk.js.map": "/my-dentist-website/static/js/2.00e2316a.chunk.js.map",
+    "index.html": "/my-dentist-website/index.html",
+    "precache-manifest.ee4009fbec22b8b9202213168dfce67c.js": "/my-dentist-website/precache-manifest.ee4009fbec22b8b9202213168dfce67c.js",
+    "service-worker.js": "/my-dentist-website/service-worker.js",
+    "static/css/main.8e05d05e.chunk.css.map": "/my-dentist-website/static/css/main.8e05d05e.chunk.css.map",
+    "static/media/assorted-ice-cream-scoops.jpeg": "/my-dentist-website/static/media/assorted-ice-cream-scoops.55ad914c.jpeg",
+    "static/media/balloons.jpeg": "/my-dentist-website/static/media/balloons.5417b520.jpeg",
+    "static/media/blue-pink-donuts.jpeg": "/my-dentist-website/static/media/blue-pink-donuts.24d863de.jpeg",
+    "static/media/breakfast-gummy.jpeg": "/my-dentist-website/static/media/breakfast-gummy.929ae7ab.jpeg",
+    "static/media/colorful-lollipops.jpeg": "/my-dentist-website/static/media/colorful-lollipops.8adfa405.jpeg",
+    "static/media/donuts-milk.jpeg": "/my-dentist-website/static/media/donuts-milk.8cdea580.jpeg",
+    "static/media/fruit-candy.jpeg": "/my-dentist-website/static/media/fruit-candy.4f2335cf.jpeg",
+    "static/media/pink-lollipop.jpeg": "/my-dentist-website/static/media/pink-lollipop.d85e0b75.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3951021.js",
+    "static/js/2.00e2316a.chunk.js",
+    "static/css/main.8e05d05e.chunk.css",
+    "static/js/main.871774a5.chunk.js"
+  ]
+}
