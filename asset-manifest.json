@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-dentist-website/static/css/main.8e05d05e.chunk.css",
-    "main.js": "/my-dentist-website/static/js/main.e793624a.chunk.js",
-    "main.js.map": "/my-dentist-website/static/js/main.e793624a.chunk.js.map",
+    "main.css": "/my-dentist-website/static/css/main.773d9825.chunk.css",
+    "main.js": "/my-dentist-website/static/js/main.f64a2f48.chunk.js",
+    "main.js.map": "/my-dentist-website/static/js/main.f64a2f48.chunk.js.map",
     "runtime-main.js": "/my-dentist-website/static/js/runtime-main.e3951021.js",
     "runtime-main.js.map": "/my-dentist-website/static/js/runtime-main.e3951021.js.map",
     "static/js/2.00e2316a.chunk.js": "/my-dentist-website/static/js/2.00e2316a.chunk.js",
     "static/js/2.00e2316a.chunk.js.map": "/my-dentist-website/static/js/2.00e2316a.chunk.js.map",
     "index.html": "/my-dentist-website/index.html",
-    "precache-manifest.794b07f29069fcafd68608d6f8c3a9b0.js": "/my-dentist-website/precache-manifest.794b07f29069fcafd68608d6f8c3a9b0.js",
+    "precache-manifest.112cedf13d4709b18d0617685f627142.js": "/my-dentist-website/precache-manifest.112cedf13d4709b18d0617685f627142.js",
     "service-worker.js": "/my-dentist-website/service-worker.js",
-    "static/css/main.8e05d05e.chunk.css.map": "/my-dentist-website/static/css/main.8e05d05e.chunk.css.map",
+    "static/css/main.773d9825.chunk.css.map": "/my-dentist-website/static/css/main.773d9825.chunk.css.map",
     "static/media/assorted-ice-cream-scoops.jpeg": "/my-dentist-website/static/media/assorted-ice-cream-scoops.55ad914c.jpeg",
     "static/media/balloons.jpeg": "/my-dentist-website/static/media/balloons.5417b520.jpeg",
     "static/media/blue-pink-donuts.jpeg": "/my-dentist-website/static/media/blue-pink-donuts.24d863de.jpeg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.e3951021.js",
     "static/js/2.00e2316a.chunk.js",
-    "static/css/main.8e05d05e.chunk.css",
-    "static/js/main.e793624a.chunk.js"
+    "static/css/main.773d9825.chunk.css",
+    "static/js/main.f64a2f48.chunk.js"
   ]
 }
