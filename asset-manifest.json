@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-dentist-website/static/css/main.773d9825.chunk.css",
-    "main.js": "/my-dentist-website/static/js/main.f64a2f48.chunk.js",
-    "main.js.map": "/my-dentist-website/static/js/main.f64a2f48.chunk.js.map",
+    "main.js": "/my-dentist-website/static/js/main.65d97382.chunk.js",
+    "main.js.map": "/my-dentist-website/static/js/main.65d97382.chunk.js.map",
     "runtime-main.js": "/my-dentist-website/static/js/runtime-main.e3951021.js",
     "runtime-main.js.map": "/my-dentist-website/static/js/runtime-main.e3951021.js.map",
-    "static/js/2.00e2316a.chunk.js": "/my-dentist-website/static/js/2.00e2316a.chunk.js",
-    "static/js/2.00e2316a.chunk.js.map": "/my-dentist-website/static/js/2.00e2316a.chunk.js.map",
+    "static/js/2.641973e6.chunk.js": "/my-dentist-website/static/js/2.641973e6.chunk.js",
+    "static/js/2.641973e6.chunk.js.map": "/my-dentist-website/static/js/2.641973e6.chunk.js.map",
     "index.html": "/my-dentist-website/index.html",
-    "precache-manifest.112cedf13d4709b18d0617685f627142.js": "/my-dentist-website/precache-manifest.112cedf13d4709b18d0617685f627142.js",
+    "precache-manifest.cb859a0c8611b638117a2d6986842a1e.js": "/my-dentist-website/precache-manifest.cb859a0c8611b638117a2d6986842a1e.js",
     "service-worker.js": "/my-dentist-website/service-worker.js",
     "static/css/main.773d9825.chunk.css.map": "/my-dentist-website/static/css/main.773d9825.chunk.css.map",
     "static/media/assorted-ice-cream-scoops.jpeg": "/my-dentist-website/static/media/assorted-ice-cream-scoops.55ad914c.jpeg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e3951021.js",
-    "static/js/2.00e2316a.chunk.js",
+    "static/js/2.641973e6.chunk.js",
     "static/css/main.773d9825.chunk.css",
-    "static/js/main.f64a2f48.chunk.js"
+    "static/js/main.65d97382.chunk.js"
   ]
 }
