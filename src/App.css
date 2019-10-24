@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto&display=swap');
+
 .nav-bar {
   margin: 2%;
   display: flex;
@@ -21,6 +22,10 @@ a {
 
 .content {
   display: flex;
+  flex-direction: row;
+  width: 90%;
+  margin: 0 auto;
+  padding: 10px;
 }
 
 a:hover {
@@ -36,7 +41,7 @@ p,li {
 }
 
 img {
-  width: 500px;
+  height: 500px;
   margin-left: 5%;
   margin-top: 2%;
 }
