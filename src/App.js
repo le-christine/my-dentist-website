@@ -18,14 +18,14 @@ class App extends Component {
       <div className="App">
         <Router>
         <nav className="nav-bar">
-         <Link to="/my-dentist-website/">Home</Link>{' '}
-         <Link to="/my-dentist-website/procedures">Procedures</Link>{' '}
-         <Link to="/my-dentist-website/contact">Contact</Link>{' '}
+         <Link to="/">Home</Link>{' '}
+         <Link to="/procedures">Procedures</Link>{' '}
+         <Link to="/contact">Contact</Link>{' '}
         </nav>
          <div>
-          <Route exact path="/my-dentist-website/" component={Home} />
-          <Route path="/my-dentist-website/procedures" component={Procedures} />
-          <Route path="/my-dentist-website/contact" component={Contact} />
+          <Route exact path="/" component={Home} />
+          <Route path="/procedures" component={Procedures} />
+          <Route path="/contact" component={Contact} />
         </div>
         </Router>
       </div>
