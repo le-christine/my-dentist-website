@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/my-dentist-website/precache-manifest.b6eb237dd31d2ee55d92343670e0fc86.js"
+  "/my-dentist-website/precache-manifest.5082580a8f3c7a064700cbe2e2abfd9b.js"
 );
 
 self.addEventListener('message', (event) => {
