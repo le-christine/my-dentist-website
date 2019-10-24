@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29d16bbab5aca20b8773de505ff25f60",
+    "revision": "5006a222862e877a7460bd967863ca62",
     "url": "/my-dentist-website/index.html"
   },
   {
-    "revision": "92f254dcfbcb9636d07e",
+    "revision": "d8dae28f744cc362f95b",
     "url": "/my-dentist-website/static/css/main.8e05d05e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-dentist-website/static/js/2.00e2316a.chunk.js"
   },
   {
-    "revision": "92f254dcfbcb9636d07e",
-    "url": "/my-dentist-website/static/js/main.a4e4d5f6.chunk.js"
+    "revision": "d8dae28f744cc362f95b",
+    "url": "/my-dentist-website/static/js/main.e793624a.chunk.js"
   },
   {
     "revision": "1a343f47d7b02c4b8be6",
