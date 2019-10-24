@@ -2,7 +2,7 @@
   "name": "demo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://le-christine.github.io/my-dentist-website/",
+  "homepage": "https://le-christine.github.io/my-dentist-website",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
